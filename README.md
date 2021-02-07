@@ -1,6 +1,8 @@
 # BrickBreaker
 
 This is my Brick Breaker part time project in which I have created a simple game.  
+In this project I was experimenting with graphic interface in Java.
+
 The goal of the game is to destroy every brick using the ball and the platform which the player controls. You cannot let the ball fall below the screen.
 
 ## Gameplay
